@@ -14,7 +14,7 @@ spec:
         app: gcr-hello-v1-ui
     spec:
       containers:
-      - image: gcr.io/google-samples/hello-app:1.0
+      - image: gcr.io/google-samples/hello-app:2.0
         name: gcr-hello-v1-ui
         ports:
         - containerPort: 8080
