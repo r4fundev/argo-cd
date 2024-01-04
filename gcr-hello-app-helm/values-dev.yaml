@@ -1,6 +1,4 @@
 env: dev
 imageWithVersion: gcr.io/google-samples/hello-app:1.0
-container:
-  port: 8080
 service:
   port: 9000

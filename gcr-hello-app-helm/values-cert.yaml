@@ -1,6 +1,4 @@
 env: stage
 imageWithVersion: gcr.io/google-samples/hello-app:2.0
-container:
-  port: 8081
 service:
   port: 9001

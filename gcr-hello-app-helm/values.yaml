@@ -1,5 +1,4 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/google-samples/hello-app
   pullPolicy: IfNotPresent
