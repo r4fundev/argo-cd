@@ -17,4 +17,4 @@ spec:
       - image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
         name: gcr-hello-{{ .Values.env }}
         ports:
-        - containerPort: {{ .Values.container.port }}
+        - containerPort: 8080

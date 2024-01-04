@@ -1,5 +1,5 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/heptio-images/ks-guestbook-demo
+  repository: gcr.io/google-samples/hello-app
   pullPolicy: IfNotPresent
