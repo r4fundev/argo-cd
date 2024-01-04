@@ -1,6 +1,6 @@
 env: stage
 image:
-  tag: 0.2
+  tag: 2.0
 container:
   port: 8081
 service:
