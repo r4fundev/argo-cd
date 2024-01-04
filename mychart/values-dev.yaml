@@ -1,0 +1,7 @@
+env: dev
+image:
+  tag: 0.2
+container:
+  port: 8080
+service:
+  port: 9000

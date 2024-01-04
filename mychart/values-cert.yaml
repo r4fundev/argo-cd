@@ -1,0 +1,7 @@
+env: stage
+image:
+  tag: 0.2
+container:
+  port: 8081
+service:
+  port: 9001
