@@ -1,6 +1,5 @@
 env: dev
-image:
-  tag: 1.0
+image: gcr.io/google-samples/hello-app:1.0
 container:
   port: 8080
 service:
